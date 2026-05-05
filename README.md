@@ -38,3 +38,5 @@ npm run build
 All displayed operational numbers are intentionally safe and sanitized. The app does not include private keys, API keys, seed phrases, or raw wallet files.
 
 See `FORM_ANSWERS.md` for copy-paste application answers.
+
+_Last updated by anddri66._
